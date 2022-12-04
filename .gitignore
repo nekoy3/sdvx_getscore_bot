@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#誤push対策
+.ini
+
+# driverをcommitしない
+.exe
